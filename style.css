@@ -98,22 +98,20 @@ blockquote {
   font-style: bold;
 }
 
-/*-------------------------------
-------------- FOOTER-------------
---------------------------------- */
 blockquote p {
   font-weight: 100;
   font-style: italic;
   font-size: 90%;
 }
 
+/*-------------------------------
+------------- FOOTER-------------
+--------------------------------- */
+
 footer {
   background: #2d3436;
   color: #fff;
   padding: 20px 0 50px 0;
-}
-
-footer p {
 }
 
 i {
